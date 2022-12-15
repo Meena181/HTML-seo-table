@@ -65,6 +65,7 @@ td:nth-child(1){
     font-weight: 900;
 	line-height: 30px;
     margin-left: 110px;
+	cursor:pointer;
 }
 .box.box2{
 	background-color: #e7516c;
